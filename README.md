@@ -1,5 +1,5 @@
 # 💫 About Me:
-📈 I am currently working on an options trading algorithm<br>🤖 I am looking to collaborate on ML and AI related projects <br>🚀 I am looking for help with my stock price prediction model<br>🔬 I am currently learning C++ at UIUC and AI driven SaaS development on my own time<br>♨️ Ask me about anything Java<br>🌉 Fun fact: I had no idea I wanted to code for the rest of my life until I watched Silicon Valley in 2019
+📈 I am currently working on an options trading algorithm<br>🤖 I am looking to collaborate on ML and AI related projects <br>🚀 I am looking for help with my stock price prediction model<br>🔬 I am currently learning C++ at UIUC and AI driven SaaS development on my own time<br>♨️ Ask me about anything Java<br>🌉 Fun fact: I'm looking to build an FPV drone
 
 
 ## 🌐 Socials:
@@ -10,14 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aidanlynde&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aidanlynde&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanlynde&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 [![](https://visitcount.itsvg.in/api?id=aidanlynde&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aidanlynde) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aidanlynde) 
