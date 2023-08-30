@@ -1,5 +1,5 @@
 # 💫 About Me:
-📈 I am currently working on an options trading algorithm<br>🤖 I am looking to collaborate on ML and AI related projects <br>🚀 I am looking for help with my stock price prediction model<br>🔬 I am currently learning C++ at UIUC and AI driven SaaS development on my own time<br>♨️ Ask me about anything Java<br>🌉 Fun fact: I'm looking to build an FPV drone
+🔬 Studying Applied Machie Learning and C++ at UIUC this Semester<br>📈 Currently working on an high freq options trading algorithm<br>🤖 I am looking to collaborate on other Machine Learning/Econometrics papers/projects<br>🚀 Building self sustainable application operated home farming system for microgreens 
 
 
 ## 🌐 Socials:
