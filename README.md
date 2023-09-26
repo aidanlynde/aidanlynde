@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔬 Studying Applied Machie Learning and C++ at UIUC this Semester<br>📈 Currently working on an high freq options trading algorithm<br>🤖 I am looking to collaborate on other Machine Learning/Econometrics papers/projects<br>🚀 Building self sustainable application operated home farming system for microgreens 
+🔬 Studying Applied Machie Learning and C++ at UIUC this Semester<br>📈 Currently working on a transaction splitting payment processing application<br>🤖 I am looking to collaborate on other Machine Learning/Econometrics papers/projects etc..<br>🚀 Building an application operated home farming system to grow microgreens and fruits all year-round in Chicago's climate
 
 
 ## 🌐 Socials:
