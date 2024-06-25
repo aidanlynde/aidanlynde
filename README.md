@@ -1,6 +1,6 @@
 
 #  About Me: 
--  **Economics Graduate from University of Illinois at Urbana-Champaign, studied Applied Econometrics/Machine Learning & C++
+-  Economics Graduate from University of Illinois at Urbana-Champaign, studied Applied Econometrics/Machine Learning & C++
 -  **Currently working on:** Building a platform to tackle food insecurity in Chicago, IL
 -  **Looking to collaborate on:** Projects/Papers on Urban Agriculture technology or Machine Learning
 -  **Some previous projects of mine:** Built the MVP for a group transaction application that deeplinked exisitng peer-to-peer payment applications to a single application. The project failed due to internal reasons but it was a massifve stepping point for my knowledge, interest, and dedication in building software. Right now I am working as a Software Engineer for the commerical real estate company CBRE, and continuing to pursue projects on the side that are related to solving real world problems by applying AI/Machine Learning technology
