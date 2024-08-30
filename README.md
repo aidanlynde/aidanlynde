@@ -1,8 +1,10 @@
 
-#  About Me: Economics Graduate from University of Illinois at Urbana-Champaign, studied Applied Econometrics/Machine Learning & C++
+# Economics Graduate from University of Illinois at Urbana-Champaign, studied Applied Econometrics/Machine Learning & C++
 **Currently working on:** Application Developer @CBRE -- Building small machine learning projects on the side
 **Looking to collaborate on:** Projects/Papers on Urban Agriculture technology or anything related to Machine Learning/AI
-**About Me:** I’m a passionate software developer with a deep-rooted interest in using technology to solve real-world problems. My journey into coding and web development began in 5th grade, where I started building websites, blogging, and experimenting with various software tools. This early exposure fueled my curiosity and set the stage for my future in tech.
+
+
+I’m a passionate software developer with a deep-rooted interest in using technology to solve real-world problems. My journey into coding and web development began in 5th grade, where I started building websites, blogging, and experimenting with various software tools. This early exposure fueled my curiosity and set the stage for my future in tech.
 
 Throughout school, I consistently excelled in math, taking advanced courses like AP Statistics and Computer Science during high school. These subjects inspired me to start teaching myself to code mathematical concepts in Python and R, laying the groundwork for my future studies.
 
