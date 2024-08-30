@@ -1,6 +1,7 @@
 
 # Economics Graduate from University of Illinois at Urbana-Champaign, studied Applied Econometrics/Machine Learning & C++
 **Currently working on:** Application Developer @CBRE -- Building small machine learning projects on the side
+
 **Looking to collaborate on:** Projects/Papers on Urban Agriculture technology or anything related to Machine Learning/AI
 
 
