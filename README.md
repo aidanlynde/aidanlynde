@@ -1,6 +1,6 @@
 
-# Economics Graduate from University of Illinois at Urbana-Champaign, studied Applied Econometrics/Machine Learning & C++
-**Currently working on:** Application Developer @CBRE -- Building small machine learning projects on the side
+# Economics Graduate from the University of Illinois at Urbana-Champaign: Studied applied econometrics/applied machine learning (Python/R) & object oriented programming (C++/Java)
+**Current Position:** Application Developer @[CBRE](https://www.cbre.com/) -- Full stack developing on [Archibus Platform](https://archibus.com/) w/ Java, Javascript, & SQL 
 
 **Looking to collaborate on:** Projects/Papers on Urban Agriculture technology or anything related to Machine Learning/AI
 
