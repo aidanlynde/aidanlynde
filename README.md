@@ -1,7 +1,7 @@
 
-# Economics Graduate from the University of Illinois at Urbana-Champaign: Studied applied econometrics/applied machine learning (Python/R) & object oriented programming (C++/Java)
+# Economics Graduate from the University of Illinois at Urbana-Champaign 
 
-I’m a software developer driven by a passion for distilling complex data into actionable insights, combining creativity and innovation to build impactful technological solutions that solve real-world problems.
+I’m a software developer driven by a passion for distilling complex data into actionable insights, combining creativity and innovation to build impactful technological solutions that solve real-world problems. I worked hard at UIUC to hone my skills in applied machine learning (Python/R) & object oriented programming (C++/Java). After graduation, I transitioned into the full time role of Application Developer @[CBRE](https://www.cbre.com/) where I continue to full stack develop on the [Archibus Platform](https://archibus.com/) using Java, Javascript, & SQL.
 
 **Personal Website:** https://www.aidanlynde.com/
 
