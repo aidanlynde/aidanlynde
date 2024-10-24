@@ -12,7 +12,6 @@ I’m a software developer driven by a passion for distilling complex data into 
 [Personal Website](https://www.aidanlynde.com/) &nbsp;| &nbsp;[LinkedIn](https://www.linkedin.com/in/aidan-lynde-1b97a31b4/) &nbsp;| &nbsp;[CBRE Github Profile](https://github.com/Aidan-Lynde?tab=overview&from=2024-10-01&to=2024-10-24) 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 💻 Tech Stack:
 ### Programming Languages
