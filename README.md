@@ -1,25 +1,16 @@
 
 # Economics Graduate from the University of Illinois at Urbana-Champaign: Studied applied econometrics/applied machine learning (Python/R) & object oriented programming (C++/Java)
+
+I’m a software developer driven by a passion for distilling complex data into actionable insights, combining creativity and innovation to build impactful technological solutions that solve real-world problems.
+
+**Personal Website:** https://www.aidanlynde.com/
+
 **Current Position:** Application Developer @[CBRE](https://www.cbre.com/) -- Full stack developing on [Archibus Platform](https://archibus.com/) w/ Java, Javascript, & SQL
 
 [CBRE Github Profile](https://github.com/Aidan-Lynde?tab=overview&from=2024-10-01&to=2024-10-24)
 
 **Looking to collaborate on:** Projects/Papers on Urban Agriculture technology or anything related to Machine Learning/AI
 
-
-I’m a passionate software developer with a deep-rooted interest in using technology to solve real-world problems. My journey into coding and web development began in 5th grade, where I started building websites, blogging, and experimenting with various software tools. This early exposure fueled my curiosity and set the stage for my future in tech.
-
-Throughout school, I consistently excelled in math, taking advanced courses like AP Statistics and Computer Science during high school. These subjects inspired me to start teaching myself to code mathematical concepts in Python and R, laying the groundwork for my future studies.
-
-When I entered the University of Illinois Urbana-Champaign (UIUC) to study Economics, I knew I wanted to become a data scientist. I thrived in my lower-level Econ courses and eagerly tackled more complex topics as I progressed. To complement my Economics studies, I also pursued a Computer Science minor at Grainger, where I learned Java, C++, and high-level object-oriented programming. The knowledge I gained from the UIUC CS department, along with the support of my network of teachers, colleagues, and friends, was invaluable.
-
-During my junior year, I interned as an application developer for CBRE, a commercial real estate company, where I honed my skills and earned a return offer. I now work as an Application Developer for CBRE, where I continue to expand my expertise in software development.
-
-One of my most significant learning experiences came during my senior year when I built the MVP for a group transaction application. The project aimed to deeplink existing peer-to-peer payment applications into a single platform. Despite the project ultimately failing due to intricate internal and time conflicts, it was an incredible journey. I spent most of my senior year independently researching how to code front-end applications in Swift and Flutter, while also taking Applied Machine Learning classes and learning C++. I designed the framework for the software, modeled it in Flutter, started coding the front end in Swift, and had the backend setup in Python ready to be hosted on the cloud. Although the project didn’t succeed, the experience taught me valuable lessons about the complexities of tackling big ideas in competitive industries.
-
-If you're curious, you can view the Flutter model of the project here: [Slush App](https://slush-towtew.flutterflow.app/).
-
-Beyond my work at CBRE, I’m constantly pursuing side projects related to AI, machine learning, and software development. Every day brings new learning opportunities, whether from my job, the internet, books, papers, or through my experiences traveling and meeting new people. I’m excited to see where this path takes me in my career as I continue to explore and push the boundaries of technology.
 
 
 ## 🌐 Socials:
