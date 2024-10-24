@@ -3,18 +3,8 @@
 
 I’m a software developer driven by a passion for distilling complex data into actionable insights, combining creativity and innovation to build impactful technological solutions that solve real-world problems. I honed my skills in applied machine learning (Python/R) & object oriented programming (C++/Java) classes at UIUC while simultaneously building personal projects and interning at multiple impactful comapnies. After graduation, I assumed the full time role of Application Developer @[CBRE](https://www.cbre.com/) where I continue to full stack develop on the [Archibus Platform](https://archibus.com/) using Java, Javascript, & SQL.
 
-**Personal Website:** https://www.aidanlynde.com/
-
-**Current Position:** Application Developer @[CBRE](https://www.cbre.com/) -- Full stack developing on [Archibus Platform](https://archibus.com/) w/ Java, Javascript, & SQL
-
-[CBRE Github Profile](https://github.com/Aidan-Lynde?tab=overview&from=2024-10-01&to=2024-10-24)
-
-**Looking to collaborate on:** Projects/Papers on Urban Agriculture technology or anything related to Machine Learning/AI
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidan-lynde-1b97a31b4/)
+## 🔗 Important Links:
+[Personal Website](https://www.aidanlynde.com/) [LinkedIn](https://www.linkedin.com/in/aidan-lynde-1b97a31b4/) [CBRE Github Profile](https://github.com/Aidan-Lynde?tab=overview&from=2024-10-01&to=2024-10-24) 
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
