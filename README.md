@@ -1,6 +1,6 @@
 
 # Economics Graduate from the University of Illinois at Urbana-Champaign: Studied applied econometrics/applied machine learning (Python/R) & object oriented programming (C++/Java)
-**Current Position:** Application Developer @[CBRE](https://www.cbre.com/) -- Full stack developing on [Archibus Platform](https://archibus.com/) w/ Java, Javascript, & SQL 
+**Current Position:** Application Developer @[CBRE](https://www.cbre.com/) -- Full stack developing on [Archibus Platform](https://archibus.com/) w/ Java, Javascript, & SQL -- [CBRE Github Profile](https://github.com/Aidan-Lynde?tab=overview&from=2024-10-01&to=2024-10-24)
 
 **Looking to collaborate on:** Projects/Papers on Urban Agriculture technology or anything related to Machine Learning/AI
 
